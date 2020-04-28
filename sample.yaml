@@ -1,4 +1,5 @@
 posts:
-  title: text required
-  body: textarea required
-  category: select required
+  create:
+    title: text
+    body: textarea
+    category: select

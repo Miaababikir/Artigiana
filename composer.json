@@ -1,0 +1,13 @@
+{
+    "name": "miaababikir/artigiana",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mosab Ibrahim",
+            "email": "miaababikir@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/yaml": "^5.0"
+    }
+}

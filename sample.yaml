@@ -1,5 +1,11 @@
-posts:
-  create:
-    title: text
-    body: textarea
-    category: select
+models:
+  User:
+    name: string
+    email: string
+    password: string
+
+  Post:
+    title: string
+    content: text
+    user_id: foreignId
+    published_at: timestamp

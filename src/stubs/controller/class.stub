@@ -1,0 +1,11 @@
+
+<?php
+
+namespace DummyNamespace;
+
+// imports...
+
+class DummyClass extends Controller
+{
+    DummyMethods
+}

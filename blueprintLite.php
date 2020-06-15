@@ -1,8 +1,8 @@
 <?php
 
-use Artigiana\Factories\FormFactory;
-use Artigiana\Generators\ModelGenerator;
-use Artigiana\Types\Model;
+use BlueprintLite\Factories\FormFactory;
+use BlueprintLite\Generators\ModelGenerator;
+use BlueprintLite\Types\Model;
 use Symfony\Component\Yaml\Yaml;
 
 require 'vendor/autoload.php';

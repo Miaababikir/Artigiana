@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Artigiana\Factories;
+namespace BlueprintLite\Factories;
 
 
-use Artigiana\Form;
+use BlueprintLite\Form;
 
 class FormFactory
 {

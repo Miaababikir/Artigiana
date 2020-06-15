@@ -1,10 +1,9 @@
 <?php
 
 
-namespace Artigiana\Types;
+namespace BlueprintLite\Types;
 
 
-use http\Exception;
 use Illuminate\Support\Str;
 
 class Migration

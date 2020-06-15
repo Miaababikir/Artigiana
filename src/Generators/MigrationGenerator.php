@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Artigiana\Generators;
+namespace BlueprintLite\Generators;
 
 
-use Artigiana\Types\Migration;
+use BlueprintLite\Types\Migration;
 
 class MigrationGenerator
 {

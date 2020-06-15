@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Artigiana\Types;
+namespace BlueprintLite\Types;
 
 
 class Model

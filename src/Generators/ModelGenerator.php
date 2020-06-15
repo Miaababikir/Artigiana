@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Artigiana\Generators;
+namespace BlueprintLite\Generators;
 
 
-use Artigiana\Types\Migration;
-use Artigiana\Types\Model;
+use BlueprintLite\Types\Migration;
+use BlueprintLite\Types\Model;
 
 class ModelGenerator
 {

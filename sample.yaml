@@ -9,9 +9,3 @@ models:
     content: text
     user_id: foreignId
     published_at: timestamp
-
-controllers:
-  Post:
-    index:
-      query: all
-      render: post.index with:posts
